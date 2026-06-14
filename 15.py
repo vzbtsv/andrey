@@ -27,5 +27,5 @@ for a1 in Ox:
 
 print(min(res))
 
-
+#lol
 
